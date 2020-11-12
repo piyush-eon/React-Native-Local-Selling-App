@@ -12,6 +12,7 @@
     "@react-navigation/bottom-tabs": "^5.11.0",
     "@react-navigation/native": "^5.8.8",
     "@react-navigation/stack": "^5.12.5",
+    "apisauce": "^1.1.2",
     "expo": "~37.0.3",
     "expo-constants": "^9.0.0",
     "expo-image-picker": "~8.1.0",
@@ -26,7 +27,8 @@
     "react-native-safe-area-context": "0.7.3",
     "react-native-screens": "~2.2.0",
     "react-native-web": "~0.11.7",
-    "yup": "^0.28.5"
+    "yup": "^0.28.5",
+    "lottie-react-native": "~2.6.1"
   },
   "devDependencies": {
     "babel-preset-expo": "~8.1.0",
